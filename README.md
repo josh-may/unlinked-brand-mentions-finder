@@ -1,42 +1,39 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+# Unlinked Brand Mentions Finder
 
-## Getting Started
+Find websites that mention your brand but don't link back to you, creating opportunities to convert mentions into valuable backlinks.
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Unlinked Brand Mentions Finder is a NextJS web application that helps businesses and marketers discover and capitalize on brand mentions across the web. By identifying websites that mention your brand without providing a backlink, you can reach out to site owners and request proper attribution, thereby improving your SEO strategy.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- 🔍 Advanced brand mention detection
+- 🌐 Web-wide search capabilities
+- 📊 Detailed mention analytics
+- 📝 Export findings to various formats
+- 📈 Track conversion success rates
+- 🔄 Regular monitoring and alerts
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+## Usage
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+1. Enter your brand name or keywords
+2. Configure search parameters
+3. Review discovered unlinked mentions
+4. Export results for outreach campaigns
+5. Track and manage your backlink acquisition progress
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Tech Stack
 
-## Learn More
+- [Next.js](https://nextjs.org/) - React framework
+- [React](https://reactjs.org/) - UI library
+- [Tailwind CSS](https://tailwindcss.com/) - Styling
 
-To learn more about Next.js, take a look at the following resources:
+## License
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Contact
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
-# unlinked-brand-mention-finder
-# unlinked-brand-mentions-finder
+Josh May - [www.joshmmay.com](https://www.joshmmay.com)
+Website: [https://www.brandmentionsfinder.com/](https://www.brandmentionsfinder.com/)
